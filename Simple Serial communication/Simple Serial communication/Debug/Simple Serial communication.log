@@ -1,3 +1,6 @@
-﻿  Scan available ports.cpp
-Scan available ports.obj : error LNK2005: "int __clrcall main(cli::array<class System::String ^ >^)" (?main@@$$HYMHP$01AP$AAVString@System@@@Z) already defined in Read From Arduino via Serial Port.obj
-D:\Documents\Github\Arduino-with-VS\Simple Serial communication\Debug\Simple Serial communication.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Simple Serial communication.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Simple Serial communication.vcxproj -> F:\Github\Arduino-with-VS\Simple Serial communication\Debug\Simple Serial communication.exe
