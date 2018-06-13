@@ -1,4 +1,4 @@
 ﻿  IMU 3D Simulations.cpp
-f:\github\arduino-with-vs\imu 3d simulations\imu 3d simulations\imu 3d simulations.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-f:\github\arduino-with-vs\imu 3d simulations\imu 3d simulations\imu 3d simulations.cpp(197): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
+f:\github\arduino-with-vs\imu 3d simulations\imu 3d simulations\imu 3d simulations.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\github\arduino-with-vs\imu 3d simulations\imu 3d simulations\imu 3d simulations.cpp(176): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
   IMU 3D Simulations.vcxproj -> F:\Github\Arduino-with-VS\IMU 3D Simulations\Debug\IMU 3D Simulations.exe
