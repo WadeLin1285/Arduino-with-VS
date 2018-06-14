@@ -91,12 +91,12 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <PrecompiledHeader>Use</PrecompiledHeader>
-      <AdditionalIncludeDirectories>F:\Github\Arduino-with-VS\IMU 3D Simulations\OpenGL\freeglut\include;F:\Github\Arduino-with-VS\IMU 3D Simulations\OpenGL\glew-1.11.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Program Files %28x86%29\Microsoft Visual Studio\Libraries\OpenGL\freeglut\include;C:\Program Files %28x86%29\Microsoft Visual Studio\Libraries\OpenGL\glew-1.11.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <AdditionalDependencies>freeglut.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>F:\Github\Arduino-with-VS\IMU 3D Simulations\OpenGL\glew-1.11.0\lib;F:\Github\Arduino-with-VS\IMU 3D Simulations\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Program Files %28x86%29\Microsoft Visual Studio\Libraries\OpenGL\glew-1.11.0\lib;C:\Program Files %28x86%29\Microsoft Visual Studio\Libraries\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
