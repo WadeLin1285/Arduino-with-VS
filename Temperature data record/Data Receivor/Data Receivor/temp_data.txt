@@ -1,0 +1,231 @@
+UNIX time and date:	Tue Jun 19 02:56:04 2018
+
+Time(h/m/s/ms):  2:56: 4.656  Duration(ms):          0   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.730  Duration(ms):         74   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.732  Duration(ms):         76   Temp(C):     31
+Time(h/m/s/ms):  2:56: 4.734  Duration(ms):         78   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.736  Duration(ms):         80   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.738  Duration(ms):         82   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.739  Duration(ms):         83   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.740  Duration(ms):         84   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.742  Duration(ms):         86   Temp(C):  31.75
+Time(h/m/s/ms):  2:56: 4.744  Duration(ms):         88   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.746  Duration(ms):         90   Temp(C):     31
+Time(h/m/s/ms):  2:56: 4.747  Duration(ms):         91   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.748  Duration(ms):         92   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.751  Duration(ms):         95   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.754  Duration(ms):         98   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 4.755  Duration(ms):         99   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 4.837  Duration(ms):        181   Temp(C):     31
+Time(h/m/s/ms):  2:56: 4.994  Duration(ms):        338   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 5.183  Duration(ms):        527   Temp(C):  30.75
+Time(h/m/s/ms):  2:56: 5.367  Duration(ms):        711   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 5.551  Duration(ms):        895   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 5.740  Duration(ms):       1084   Temp(C):     31
+Time(h/m/s/ms):  2:56: 5.925  Duration(ms):       1269   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 6.109  Duration(ms):       1453   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 6.297  Duration(ms):       1641   Temp(C):  30.75
+Time(h/m/s/ms):  2:56: 6.482  Duration(ms):       1826   Temp(C):     31
+Time(h/m/s/ms):  2:56: 6.665  Duration(ms):       2009   Temp(C):     31
+Time(h/m/s/ms):  2:56: 6.854  Duration(ms):       2198   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 7. 38  Duration(ms):       2382   Temp(C):  31.75
+Time(h/m/s/ms):  2:56: 7.224  Duration(ms):       2568   Temp(C):     31
+Time(h/m/s/ms):  2:56: 7.407  Duration(ms):       2751   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 7.595  Duration(ms):       2939   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 7.780  Duration(ms):       3124   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 7.964  Duration(ms):       3308   Temp(C):     31
+Time(h/m/s/ms):  2:56: 8.152  Duration(ms):       3496   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 8.335  Duration(ms):       3679   Temp(C):  31.25
+Time(h/m/s/ms):  2:56: 8.520  Duration(ms):       3864   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 8.708  Duration(ms):       4052   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 8.893  Duration(ms):       4237   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 9. 77  Duration(ms):       4421   Temp(C):     31
+Time(h/m/s/ms):  2:56: 9.265  Duration(ms):       4609   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 9.450  Duration(ms):       4794   Temp(C):     31
+Time(h/m/s/ms):  2:56: 9.634  Duration(ms):       4978   Temp(C):   31.5
+Time(h/m/s/ms):  2:56: 9.822  Duration(ms):       5166   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:10.  7  Duration(ms):       5351   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:10.193  Duration(ms):       5537   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:10.379  Duration(ms):       5723   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:10.564  Duration(ms):       5908   Temp(C):     31
+Time(h/m/s/ms):  2:56:10.749  Duration(ms):       6093   Temp(C):     31
+Time(h/m/s/ms):  2:56:10.937  Duration(ms):       6281   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:11.143  Duration(ms):       6487   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:11.305  Duration(ms):       6649   Temp(C):  30.75
+Time(h/m/s/ms):  2:56:11.493  Duration(ms):       6837   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:11.678  Duration(ms):       7022   Temp(C):     31
+Time(h/m/s/ms):  2:56:11.863  Duration(ms):       7207   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:12. 50  Duration(ms):       7394   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:12.235  Duration(ms):       7579   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:12.419  Duration(ms):       7763   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:12.607  Duration(ms):       7951   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:12.792  Duration(ms):       8136   Temp(C):     31
+Time(h/m/s/ms):  2:56:12.977  Duration(ms):       8321   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:13.165  Duration(ms):       8509   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:13.349  Duration(ms):       8693   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:13.533  Duration(ms):       8877   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:13.722  Duration(ms):       9066   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:13.907  Duration(ms):       9251   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:14. 91  Duration(ms):       9435   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:14.279  Duration(ms):       9623   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:14.463  Duration(ms):       9807   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:14.647  Duration(ms):       9991   Temp(C):     31
+Time(h/m/s/ms):  2:56:14.836  Duration(ms):      10180   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:15. 20  Duration(ms):      10364   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:15.204  Duration(ms):      10548   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:15.393  Duration(ms):      10737   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:15.577  Duration(ms):      10921   Temp(C):     31
+Time(h/m/s/ms):  2:56:15.762  Duration(ms):      11106   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:15.950  Duration(ms):      11294   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:16.135  Duration(ms):      11479   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:16.319  Duration(ms):      11663   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:16.507  Duration(ms):      11851   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:16.692  Duration(ms):      12036   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:16.876  Duration(ms):      12220   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:17. 64  Duration(ms):      12408   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:17.248  Duration(ms):      12592   Temp(C):     32
+Time(h/m/s/ms):  2:56:17.432  Duration(ms):      12776   Temp(C):     31
+Time(h/m/s/ms):  2:56:17.621  Duration(ms):      12965   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:17.805  Duration(ms):      13149   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:17.990  Duration(ms):      13334   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:18.179  Duration(ms):      13523   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:18.362  Duration(ms):      13706   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:18.547  Duration(ms):      13891   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:18.736  Duration(ms):      14080   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:18.920  Duration(ms):      14264   Temp(C):     31
+Time(h/m/s/ms):  2:56:19.104  Duration(ms):      14448   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:19.288  Duration(ms):      14632   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:19.476  Duration(ms):      14820   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:19.662  Duration(ms):      15006   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:19.893  Duration(ms):      15237   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:20. 34  Duration(ms):      15378   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:20.218  Duration(ms):      15562   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:20.402  Duration(ms):      15746   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:20.591  Duration(ms):      15935   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:20.775  Duration(ms):      16119   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:20.959  Duration(ms):      16303   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:21.148  Duration(ms):      16492   Temp(C):     31
+Time(h/m/s/ms):  2:56:21.332  Duration(ms):      16676   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:21.516  Duration(ms):      16860   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:21.704  Duration(ms):      17048   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:21.889  Duration(ms):      17233   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:22. 74  Duration(ms):      17418   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:22.262  Duration(ms):      17606   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:22.446  Duration(ms):      17790   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:22.630  Duration(ms):      17974   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:22.819  Duration(ms):      18163   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:23.  3  Duration(ms):      18347   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:23.188  Duration(ms):      18532   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:23.376  Duration(ms):      18720   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:23.560  Duration(ms):      18904   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:23.745  Duration(ms):      19089   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:23.933  Duration(ms):      19277   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:24.118  Duration(ms):      19462   Temp(C):     31
+Time(h/m/s/ms):  2:56:24.303  Duration(ms):      19647   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:24.490  Duration(ms):      19834   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:24.674  Duration(ms):      20018   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:24.858  Duration(ms):      20202   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:25. 47  Duration(ms):      20391   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:25.231  Duration(ms):      20575   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:25.416  Duration(ms):      20760   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:25.604  Duration(ms):      20948   Temp(C):     31
+Time(h/m/s/ms):  2:56:25.788  Duration(ms):      21132   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:25.973  Duration(ms):      21317   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:26.161  Duration(ms):      21505   Temp(C):     31
+Time(h/m/s/ms):  2:56:26.345  Duration(ms):      21689   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:26.529  Duration(ms):      21873   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:26.718  Duration(ms):      22062   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:26.902  Duration(ms):      22246   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:27. 87  Duration(ms):      22431   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:27.276  Duration(ms):      22620   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:27.460  Duration(ms):      22804   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:27.643  Duration(ms):      22987   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:27.832  Duration(ms):      23176   Temp(C):     31
+Time(h/m/s/ms):  2:56:28. 17  Duration(ms):      23361   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:28.201  Duration(ms):      23545   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:28.389  Duration(ms):      23733   Temp(C):     31
+Time(h/m/s/ms):  2:56:28.574  Duration(ms):      23918   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:28.758  Duration(ms):      24102   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:28.946  Duration(ms):      24290   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:29.131  Duration(ms):      24475   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:29.314  Duration(ms):      24658   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:29.503  Duration(ms):      24847   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:29.687  Duration(ms):      25031   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:29.872  Duration(ms):      25216   Temp(C):     31
+Time(h/m/s/ms):  2:56:30. 60  Duration(ms):      25404   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:30.245  Duration(ms):      25589   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:30.429  Duration(ms):      25773   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:30.617  Duration(ms):      25961   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:30.803  Duration(ms):      26147   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:30.986  Duration(ms):      26330   Temp(C):     31
+Time(h/m/s/ms):  2:56:31.174  Duration(ms):      26518   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:31.359  Duration(ms):      26703   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:31.543  Duration(ms):      26887   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:31.731  Duration(ms):      27075   Temp(C):     31
+Time(h/m/s/ms):  2:56:31.916  Duration(ms):      27260   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:32.100  Duration(ms):      27444   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:32.284  Duration(ms):      27628   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:32.473  Duration(ms):      27817   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:32.657  Duration(ms):      28001   Temp(C):  30.75
+Time(h/m/s/ms):  2:56:32.842  Duration(ms):      28186   Temp(C):     31
+Time(h/m/s/ms):  2:56:33. 30  Duration(ms):      28374   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:33.214  Duration(ms):      28558   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:33.399  Duration(ms):      28743   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:33.587  Duration(ms):      28931   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:33.772  Duration(ms):      29116   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:33.955  Duration(ms):      29299   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:34.144  Duration(ms):      29488   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:34.329  Duration(ms):      29673   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:34.512  Duration(ms):      29856   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:34.701  Duration(ms):      30045   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:34.896  Duration(ms):      30240   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:35. 97  Duration(ms):      30441   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:35.258  Duration(ms):      30602   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:35.443  Duration(ms):      30787   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:35.628  Duration(ms):      30972   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:35.815  Duration(ms):      31159   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:36.  0  Duration(ms):      31344   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:36.184  Duration(ms):      31528   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:36.372  Duration(ms):      31716   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:36.557  Duration(ms):      31901   Temp(C):  30.75
+Time(h/m/s/ms):  2:56:36.752  Duration(ms):      32096   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:36.929  Duration(ms):      32273   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:37.113  Duration(ms):      32457   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:37.298  Duration(ms):      32642   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:37.487  Duration(ms):      32831   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:37.671  Duration(ms):      33015   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:37.855  Duration(ms):      33199   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:38. 43  Duration(ms):      33387   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:38.227  Duration(ms):      33571   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:38.412  Duration(ms):      33756   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:38.600  Duration(ms):      33944   Temp(C):     31
+Time(h/m/s/ms):  2:56:38.784  Duration(ms):      34128   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:38.969  Duration(ms):      34313   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:39.157  Duration(ms):      34501   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:39.342  Duration(ms):      34686   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:39.526  Duration(ms):      34870   Temp(C):     31
+Time(h/m/s/ms):  2:56:39.714  Duration(ms):      35058   Temp(C):     31
+Time(h/m/s/ms):  2:56:39.899  Duration(ms):      35243   Temp(C):     31
+Time(h/m/s/ms):  2:56:40. 83  Duration(ms):      35427   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:40.271  Duration(ms):      35615   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:40.456  Duration(ms):      35800   Temp(C):     31
+Time(h/m/s/ms):  2:56:40.640  Duration(ms):      35984   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:40.836  Duration(ms):      36180   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:41. 13  Duration(ms):      36357   Temp(C):     31
+Time(h/m/s/ms):  2:56:41.196  Duration(ms):      36540   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:41.385  Duration(ms):      36729   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:41.570  Duration(ms):      36914   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:41.753  Duration(ms):      37097   Temp(C):  30.75
+Time(h/m/s/ms):  2:56:41.941  Duration(ms):      37285   Temp(C):     31
+Time(h/m/s/ms):  2:56:42.126  Duration(ms):      37470   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:42.310  Duration(ms):      37654   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:42.499  Duration(ms):      37843   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:42.683  Duration(ms):      38027   Temp(C):  31.75
+Time(h/m/s/ms):  2:56:42.867  Duration(ms):      38211   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:43. 55  Duration(ms):      38399   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:43.240  Duration(ms):      38584   Temp(C):   31.5
+Time(h/m/s/ms):  2:56:43.424  Duration(ms):      38768   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:43.613  Duration(ms):      38957   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:43.797  Duration(ms):      39141   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:43.982  Duration(ms):      39326   Temp(C):  31.25
+Time(h/m/s/ms):  2:56:44.170  Duration(ms):      39514   
